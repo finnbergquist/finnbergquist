@@ -4,3 +4,43 @@ I am a Physics and Computer Science double major at Bowdoin College, graduating 
 
 ### Portfolio:
 https://finnbergquist.github.io/
+
+# Skills
+
+## Programming Languages
+- Python
+- JavaScript
+- Java
+- C/C++
+- SQL
+
+## Web Development
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- Express.js
+
+## Data Science & Machine Learning
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- Keras
+
+## Database Management
+- MongoDB
+- MySQL
+- PostgreSQL
+- SQLite
+
+## Tools & Technologies
+- Git
+- Docker
+- Linux
+- Kubernetes
+- RESTful APIs
+- Agile Dev
+
