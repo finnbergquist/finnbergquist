@@ -1,4 +1,3 @@
-# Finn Bergquist
 
 <img src="https://github.com/user-attachments/assets/af02b94d-f6d7-4cd2-a282-e034f6ff018d" alt="Profile Image" width="200" align="right" style="margin-left: 20px;"/>
 
