@@ -8,7 +8,6 @@ I am a full stack engineer, working for Marketron. I double majored in physics a
 machine learning, linear algebra, quantum mechanics, relativity, and the stock market. I enjoy breaking down large complex problems and working on a team.
 I thrive in competitive environments where I can work hard, push my limits, and contribute.
 
-In my free time, I love to play guitar and explore the outdoors. 
 
 
 #### 💻 Programming Languages
