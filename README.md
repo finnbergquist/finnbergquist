@@ -45,7 +45,7 @@ I thrive in competitive environments where I can work hard, push my limits, and 
 #### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-47A248?style=flat-square&logo=agile&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
