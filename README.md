@@ -46,3 +46,6 @@ machine learning, linear algebra, quantum mechanics, relativity, and the stock m
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/finnbergquist/stats)
