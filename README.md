@@ -4,10 +4,10 @@
 ### Finn Bergquist
 **Forward Deployed Engineer @ Medplum | San Francisco**
 
-I help healthcare organizations build interoperable systems using FHIR standards and modern technology.
+_I help healthcare organizations build interoperable systems using FHIR standards and modern technology_
 
-- Previous experiece as a Full Stack Engineer @ _Marketron_
-- Physics & Computer Science double major @ _Bowdoin College_
+- Previous experiece as a Full Stack Engineer @ Marketron
+- Physics & Computer Science double major @ Bowdoin College
 
 
 #### 💻 Programming Languages
