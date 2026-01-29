@@ -1,11 +1,13 @@
 
-### Hello 👋 
-
-
 <img src="https://github.com/user-attachments/assets/af02b94d-f6d7-4cd2-a282-e034f6ff018d" alt="Profile Image" width="200" align="right" style="margin-left: 20px;"/>
 
-My name is Finn Bergquist, and I am a software engineer based in San Francisco. I double majored in physics and computer science at Bowdoin college, where I developed deep interests in
-machine learning, linear algebra, quantum mechanics, relativity, and the stock market. I enjoy breaking down large complex problems and working on a team.
+### Finn Bergquist
+**Forward Deployed Engineer @ Medplum | San Francisco**
+
+I help healthcare organizations build interoperable systems using FHIR standards and modern technology.
+
+- Previous experiece as a Full Stack Engineer @ _Marketron_
+- Physics & Computer Science double major @ _Bowdoin College_
 
 
 #### 💻 Programming Languages
